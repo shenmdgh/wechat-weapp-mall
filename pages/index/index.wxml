@@ -10,6 +10,10 @@
             </block>
         </swiper>
     </view>
+    
+    /*
+     轮播图：很明显上面使用了swiper轮播标签 swiper-item标签 image标签 使用语法 wx:for
+    */
 
     <view class="text">
         <view class="line_flag"></view>
